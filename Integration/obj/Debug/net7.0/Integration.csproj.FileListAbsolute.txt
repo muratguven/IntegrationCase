@@ -1,0 +1,15 @@
+D:\JobCases\IntegrationCase\Integration\bin\Debug\net7.0\Integration.exe
+D:\JobCases\IntegrationCase\Integration\bin\Debug\net7.0\Integration.deps.json
+D:\JobCases\IntegrationCase\Integration\bin\Debug\net7.0\Integration.runtimeconfig.json
+D:\JobCases\IntegrationCase\Integration\bin\Debug\net7.0\Integration.dll
+D:\JobCases\IntegrationCase\Integration\bin\Debug\net7.0\Integration.pdb
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\Integration.AssemblyInfoInputs.cache
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\Integration.AssemblyInfo.cs
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\Integration.csproj.CoreCompileInputs.cache
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\Integration.sourcelink.json
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\Integration.dll
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\refint\Integration.dll
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\Integration.pdb
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\Integration.genruntimeconfig.cache
+D:\JobCases\IntegrationCase\Integration\obj\Debug\net7.0\ref\Integration.dll

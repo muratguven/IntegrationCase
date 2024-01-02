@@ -1,0 +1,7 @@
+﻿Concurrency Issues: Depending on the chosen distributed locking mechanism, there could be challenges related to high concurrency and performance.
+
+Scalability: The scalability of the solution might be limited by the chosen technology for distributed coordination.
+
+Fault Tolerance: The solution might face challenges in terms of fault tolerance and resilience against server failures or network issues.
+
+Latency: The chosen coordination mechanism may introduce latency, affecting the overall response time of the system.

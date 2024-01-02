@@ -22,6 +22,15 @@ public sealed class ItemOperationBackend
         return item;
     }
 
+    public Task<Item> SaveItemAsync(string itemContent)
+    {
+        Thread.Sleep(2_000);
+        var item = new Item();
+        item.Content = itemContent;
+        item.Id = GetNextIdentity();
+        SavedItems.Add(item);
+        return Task.FromResult(item);
+    }
     public List<Item> FindItemsWithContent(string itemContent)
     {
         return SavedItems.Where(x => x.Content == itemContent).ToList();
